@@ -21,7 +21,6 @@ Cada post pode conter:
 - Data de publicação
 - Texto completo
 - Links, referências e imagens (quando aplicável)
-- [Opcional] Descrição do contexto da publicação
 
 Exemplo de estrutura:
 ```
