@@ -1,7 +1,7 @@
 # 📚 LinkedIn Posts Repository
 
 Bem-vindo(a) ao meu repositório de postagens do LinkedIn!  
-Aqui você encontrará um histórico organizado de conteúdos que publico na minha rede, com temas variados sobre **[Zabbix ex: tecnologia, direito, negócios, carreira, etc.]**.
+Aqui você encontrará um histórico organizado de conteúdos que publico na minha rede, com temas variados sobre **[Zabbix ex: tecnologia, negócios, carreira, etc.]**.
 
 ## 📌 Sobre este repositório
 
